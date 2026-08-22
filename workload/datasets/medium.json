@@ -1,0 +1,5 @@
+{
+  "name": "medium",
+  "description": "Medium-intensity LLM inference workload (placeholder dataset).",
+  "requests": []
+}

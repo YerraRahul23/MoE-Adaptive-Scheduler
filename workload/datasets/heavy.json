@@ -1,0 +1,5 @@
+{
+  "name": "heavy",
+  "description": "High-intensity LLM inference workload (placeholder dataset).",
+  "requests": []
+}

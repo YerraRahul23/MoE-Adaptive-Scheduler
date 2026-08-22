@@ -1,0 +1,5 @@
+{
+  "name": "light",
+  "description": "Light-intensity LLM inference workload (placeholder dataset).",
+  "requests": []
+}

@@ -1,0 +1,3 @@
+# moe-adaptive-scheduler dependencies
+# Kept minimal during the scaffolding phase.
+# Dependencies (numpy, matplotlib, etc.) will be added as implementation begins.
