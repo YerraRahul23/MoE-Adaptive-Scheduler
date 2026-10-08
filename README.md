@@ -1,4 +1,4 @@
-# MOE-Adaptive-Scheduler
+# MoE-Adaptive-Scheduler
 
 **Quantum-Inspired Adaptive Scheduling Framework for Efficient Mixture-of-Experts Large Language Model Serving**
 
